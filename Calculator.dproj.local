@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/18 09:56:00.000.222,=E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/18 09:57:06.000.387,E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Calculator\frmMain.pas</Transaction>
+    <Transaction>2023/08/18 09:57:06.000.387,E:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Calculator\frmMain.dfm</Transaction>
+    <Transaction>2023/08/18 09:57:19.000.828,E:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Calculator\Calculator.dproj</Transaction>
+    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\frmMain.dfm=C:\Calculator\View\frmMain.dfm</Transaction>
+    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\frmMain.pas=C:\Calculator\View\frmMain.pas</Transaction>
+    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\frmMain.dfm=C:\Calculator\View\ufrmMain.dfm</Transaction>
+    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\frmMain.pas=C:\Calculator\View\ufrmMain.pas</Transaction>
+    <Transaction>2023/08/18 10:20:41.000.444,=C:\Calculator\Unit1.pas</Transaction>
+    <Transaction>2023/08/18 10:21:35.000.722,C:\Calculator\Unit1.pas=C:\Calculator\Model\uCalculadora.model.pas</Transaction>
+    <Transaction>2023/08/18 10:32:54.000.062,=C:\Calculator\Unit1.pas</Transaction>
+    <Transaction>2023/08/18 10:33:12.000.871,C:\Calculator\Unit1.pas=C:\Calculator\Controller\uCalculadora.Controller.Interfaces.pas</Transaction>
+    <Transaction>2023/08/18 10:58:56.000.034,=C:\Calculator\Unit1.pas</Transaction>
+    <Transaction>2023/08/18 10:59:12.000.879,C:\Calculator\Unit1.pas=C:\Calculator\Controller\uCalculadora.Controller.pas</Transaction>
+  </Transactions>
+</BorlandProject>
