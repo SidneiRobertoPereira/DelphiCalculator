@@ -6,11 +6,15 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/sidnei-roberto-pereira-jp/">Sidnei Roberto Pereira</a>
   </h1>
+
+  <p align="center">
+    Sou Desenvolvedor Delphi e gosto muito de compartilhar meu conhecimento e aprendizado.   
+  </p>
   
   <p align="center">
-    Sou Desenvolvedor Delphi e gosto muito de compartilhar meu conhecimento e aprendizado. Este pequeno projeto criado em Delphi 10.3 de uma simples calculadora aplicando padrão MVC com interfaces
-    <a href="https://www.orbsis.com.br" target="_blank">
-    </a>  
+    Este pequeno projeto foi criado em Delphi 10.3 de uma simples calculadora aplicando padrão MVC com interfaces <br>
+    O intuito é de mostrar como é simples aplicar o uso de interfaces para construir um código limpo (clean code). <br>
+    Baixe os fontes e leia o arquivo Readme.Txt para mais detalhes, você encontra na pasta principal do projeto.
   </p>
   
   <p align="center">
@@ -25,13 +29,12 @@
   </a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Delphi" height="35" width="35" src="/assets/Delphi.png">
+<div align="center" valign="top"><br>    
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
 </div><br>
 
 <div align="center">
@@ -48,6 +51,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+  <p>Feito com JavaScript.</p>
   <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
 </div>
