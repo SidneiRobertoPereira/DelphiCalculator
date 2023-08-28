@@ -2,18 +2,28 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2023/08/18 09:56:00.000.222,=E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2023/08/18 09:57:06.000.387,E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=C:\Calculator\frmMain.pas</Transaction>
-    <Transaction>2023/08/18 09:57:06.000.387,E:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=C:\Calculator\frmMain.dfm</Transaction>
-    <Transaction>2023/08/18 09:57:19.000.828,E:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=C:\Calculator\Calculator.dproj</Transaction>
-    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\frmMain.dfm=C:\Calculator\View\frmMain.dfm</Transaction>
-    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\frmMain.pas=C:\Calculator\View\frmMain.pas</Transaction>
-    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\frmMain.dfm=C:\Calculator\View\ufrmMain.dfm</Transaction>
-    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\frmMain.pas=C:\Calculator\View\ufrmMain.pas</Transaction>
+    <Transaction>2023/08/18 09:57:06.000.387,C:\Calculator\frmMain.dfm=E:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/18 09:57:06.000.387,C:\Calculator\frmMain.pas=E:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/18 09:57:19.000.828,C:\Calculator\Calculator.dproj=E:\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\View\frmMain.pas=C:\Calculator\frmMain.pas</Transaction>
+    <Transaction>2023/08/18 09:58:07.000.846,C:\Calculator\View\frmMain.dfm=C:\Calculator\frmMain.dfm</Transaction>
+    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\ufrmMain.pas=C:\Calculator\View\frmMain.pas</Transaction>
+    <Transaction>2023/08/18 09:58:49.000.571,C:\Calculator\View\ufrmMain.dfm=C:\Calculator\View\frmMain.dfm</Transaction>
     <Transaction>2023/08/18 10:20:41.000.444,=C:\Calculator\Unit1.pas</Transaction>
-    <Transaction>2023/08/18 10:21:35.000.722,C:\Calculator\Unit1.pas=C:\Calculator\Model\uCalculadora.model.pas</Transaction>
+    <Transaction>2023/08/18 10:21:35.000.722,C:\Calculator\Model\uCalculadora.model.pas=C:\Calculator\Unit1.pas</Transaction>
     <Transaction>2023/08/18 10:32:54.000.062,=C:\Calculator\Unit1.pas</Transaction>
-    <Transaction>2023/08/18 10:33:12.000.871,C:\Calculator\Unit1.pas=C:\Calculator\Controller\uCalculadora.Controller.Interfaces.pas</Transaction>
+    <Transaction>2023/08/18 10:33:12.000.871,C:\Calculator\Controller\uCalculadora.Controller.Interfaces.pas=C:\Calculator\Unit1.pas</Transaction>
     <Transaction>2023/08/18 10:58:56.000.034,=C:\Calculator\Unit1.pas</Transaction>
-    <Transaction>2023/08/18 10:59:12.000.879,C:\Calculator\Unit1.pas=C:\Calculator\Controller\uCalculadora.Controller.pas</Transaction>
+    <Transaction>2023/08/18 10:59:12.000.879,C:\Calculator\Controller\uCalculadora.Controller.pas=C:\Calculator\Unit1.pas</Transaction>
+    <Transaction>2023/08/28 15:40:02.384,C:\Calculator\SRC\View\ufrmMain.pas=C:\Calculator\View\ufrmMain.pas</Transaction>
+    <Transaction>2023/08/28 15:40:02.384,C:\Calculator\SRC\View\ufrmMain.dfm=C:\Calculator\View\ufrmMain.dfm</Transaction>
+    <Transaction>2023/08/28 15:42:40.388,C:\Calculator\SRC\View\AppCalculator.View.Main.pas=C:\Calculator\SRC\View\ufrmMain.pas</Transaction>
+    <Transaction>2023/08/28 15:42:40.388,C:\Calculator\SRC\View\AppCalculator.View.Main.dfm=C:\Calculator\SRC\View\ufrmMain.dfm</Transaction>
+    <Transaction>2023/08/28 15:56:57.095,C:\Calculator\SRC\Model\Model.Calculadora.Interfaces.pas=C:\Calculator\Controller\uCalculadora.Controller.Interfaces.pas</Transaction>
+    <Transaction>2023/08/28 15:58:48.487,C:\Calculator\SRC\Model\Model.Calculadora.pas=C:\Calculator\Controller\uCalculadora.Controller.pas</Transaction>
+    <Transaction>2023/08/28 16:10:46.671,C:\Calculator\SRC\Model\Entity\AppCalculator.Model.Entity.Calculadora.pas=C:\Calculator\Model\uCalculadora.model.pas</Transaction>
+    <Transaction>2023/08/28 16:23:47.706,C:\Calculator\SRC\Model\AppCalculator.Model.Calculadora.Interfaces.pas=C:\Calculator\SRC\Model\Model.Calculadora.Interfaces.pas</Transaction>
+    <Transaction>2023/08/28 16:24:05.849,C:\Calculator\SRC\Model\AppCalculator.Model.Calculadora.pas=C:\Calculator\SRC\Model\Model.Calculadora.pas</Transaction>
+    <Transaction>2023/08/28 18:06:11.874,=C:\Calculator\Unit1.pas</Transaction>
   </Transactions>
 </BorlandProject>

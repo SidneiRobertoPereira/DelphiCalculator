@@ -98,13 +98,13 @@
         <DelphiCompile Include="$(MainSource)">
             <MainSource>MainSource</MainSource>
         </DelphiCompile>
-        <DCCReference Include="View\ufrmMain.pas">
+        <DCCReference Include="SRC\View\AppCalculator.View.Main.pas">
             <Form>frmMain</Form>
             <FormType>dfm</FormType>
         </DCCReference>
-        <DCCReference Include="Model\uCalculadora.model.pas"/>
-        <DCCReference Include="Controller\uCalculadora.Controller.Interfaces.pas"/>
-        <DCCReference Include="Controller\uCalculadora.Controller.pas"/>
+        <DCCReference Include="SRC\Model\Entity\AppCalculator.Model.Entity.Calculadora.pas"/>
+        <DCCReference Include="SRC\Model\AppCalculator.Model.Calculadora.Interfaces.pas"/>
+        <DCCReference Include="SRC\Model\AppCalculator.Model.Calculadora.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>
